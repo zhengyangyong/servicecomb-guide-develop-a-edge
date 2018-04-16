@@ -1,4 +1,4 @@
-This is a guid project for tech how to develop a micro-service using ServiceComb Java Chassis.
+This is a guid project for tech how to develop a edge service with basic routing using ServiceComb Java Chassis.
 
 Initial is the incomplete project for you to start.
 
@@ -10,7 +10,7 @@ More information can be found : http://servicecomb.incubator.apache.org/users/
 
 ======================
 
-这是一个向导项目帮助用户如何使用ServiceComb Java Chassis开发微服务。
+这是一个向导项目帮助用户如何使用ServiceComb Java Chassis开发有基本动态路由功能的边缘服务。
 
 Initial下的项目是初始状态，从这里开始。
 
