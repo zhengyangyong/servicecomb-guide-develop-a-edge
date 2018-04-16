@@ -22,5 +22,5 @@ Complete下是已经完成的项目（答案）。
 
 ======================
 
-[调用图]()
+[调用图](https://github.com/zhengyangyong/servicecomb-guide-develop-a-edge/blob/master/others/arch.png)
 
